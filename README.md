@@ -1,6 +1,6 @@
 # Denoising Autoencoder for Image Reconstruction
 
-This project implements denoising autoencoders from scratch using PyTorch and applies them to both the MNIST and CIFAR-10 datasets.
+In this project I implement 2 denoising autoencoders from scratch using PyTorch to denoise images from both the MNIST, and CIFAR-10 Datasets
 
 ## Overview
 
